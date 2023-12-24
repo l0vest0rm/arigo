@@ -1,4 +1,4 @@
-module github.com/siku2/arigo
+module github.com/l0vest0rm/arigo
 
 go 1.12
 
